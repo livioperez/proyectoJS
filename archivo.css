@@ -1,0 +1,35 @@
+.titulo {
+    padding-top: 20px;
+    background-color: brown;
+    text-align: center;
+    height: 130px;
+    font-size: 5rem;
+}
+
+.col{
+    border: 1px solid black;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    background: rgb(195,195,198);
+background: radial-gradient(circle, rgba(195,195,198,1) 0%, rgba(53,125,216,0.9935128348214286) 100%);
+}
+
+.coll2{
+    text-align: center;
+}
+
+
+.red1{
+    text-align: center;
+    
+}
+
+
+.btnAlto{
+    height: 38px;
+    padding: 5px;
+}
+.click{
+    margin-bottom: 5px;
+}
